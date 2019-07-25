@@ -1,0 +1,8 @@
+{
+  "name": "react-tdd",
+  "version": "1.0.0",
+  "description": "react in tddd",
+  "main": "index.js",
+  "author": "Kudakwashe Siziva <ksiziva@gmail.com>",
+  "license": "MIT"
+}
