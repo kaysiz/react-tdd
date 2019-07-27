@@ -4,5 +4,15 @@
   "description": "react in tddd",
   "main": "index.js",
   "author": "Kudakwashe Siziva <ksiziva@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
 }
